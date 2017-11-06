@@ -9,4 +9,5 @@ node_modules
 /.sass-cache
 psd
 sass.template.mustache
+.DS_Store
 
